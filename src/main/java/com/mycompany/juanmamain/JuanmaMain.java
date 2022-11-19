@@ -2,6 +2,11 @@
 package com.mycompany.juanmamain;
 import java.util.Scanner;
 
+/*
+JUAN MANUEL BELAUNDE 
+*/
+
+
 public class JuanmaMain {
 
     public static void main(String[] args) {
